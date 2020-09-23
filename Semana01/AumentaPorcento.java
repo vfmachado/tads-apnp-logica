@@ -8,7 +8,7 @@ public class AumentaPorcento  {
         
         float valor, porcentagem, valorAtualizado;
         
-        System.out.println("Informe um valor");
+        System.out.println("Informe um valor:");
         valor = in.nextFloat();
 
         System.out.println("Aumento de quantos %?");
