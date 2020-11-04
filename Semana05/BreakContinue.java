@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class BreakReturn {
+public class BreakContinue {
     
     public static void main(String[] args) {
         
